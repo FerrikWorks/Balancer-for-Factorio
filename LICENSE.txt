@@ -1,0 +1,42 @@
+BALANCER FOR FACTORIO LICENCE
+Copyright 2026 Ferrik (FerrikWorks). All rights reserved.
+
+1. Free to use. You may install and use Balancer for Factorio free of
+   charge, for any non-commercial purpose.
+
+2. Sharing. You may share unmodified copies of the official installer,
+   free of charge, provided this licence and all notices stay included.
+
+3. Restrictions. You may not:
+   a. sell, rent, or charge for Balancer for Factorio or access to it,
+      alone or bundled with anything else;
+   b. modify, decompile, or reverse engineer it, except as section 6 or
+      applicable law permits;
+   c. remove or alter its copyright, licence, or trademark notices;
+   d. distribute it together with any Factorio game files or art.
+
+4. Factorio. Factorio is a trademark of Wube Software Ltd. Balancer for
+   Factorio is a fan-made helper program and is not affiliated with or
+   endorsed by Wube Software. When Factorio is installed on your computer,
+   game sprites are read directly from the game's install folder. They are
+   not included or distributed with this program. Your use of Factorio
+   remains subject to Wube Software's terms of service:
+   https://www.factorio.com/terms-of-service
+
+5. Your data. Balancer for Factorio stores its designs and settings on
+   your computer only. It sends no data anywhere.
+
+6. Third-party software. Balancer for Factorio includes open source
+   components listed in THIRD_PARTY_LICENSES.txt, each under its own
+   licence. Nothing in this licence limits your rights under those
+   licences, including your right under the GNU Lesser General Public
+   License to replace the Qt libraries with your own builds, and to
+   reverse engineer the program to the extent needed to debug such
+   replacements.
+
+7. No warranty. Balancer for Factorio is provided as is, without warranty
+   of any kind. Designs are verified by the program, but you build them in
+   game at your own discretion.
+
+8. Limitation of liability. The author is not liable for any damages
+   arising from the use of, or inability to use, Balancer for Factorio.
